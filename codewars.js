@@ -1,1 +1,5 @@
-<script> helijhlo</script>
+function distinct(a) {
+    return [...new Set(a)];
+  }
+
+  
